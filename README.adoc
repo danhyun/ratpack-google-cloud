@@ -1,0 +1,4 @@
+= Ratpack Google Cloud
+Dan Hyun
+
+Full notes available @ https://danhyun.github.io/ratpack-google-cloud

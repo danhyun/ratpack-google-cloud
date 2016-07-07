@@ -1,0 +1,5 @@
+runtime: custom # <1>
+vm: true # <1>
+
+manual_scaling: # <2>
+  instances: 1
